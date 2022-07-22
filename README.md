@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on artifical intelligence.
 - 📫 How to reach me kerem00962@gmail.com
 
-- I'm new to the game industry so I'm just developing myself in the field of coding and modeling.
+- I'm new to the industry of computer engineering so I'm just developing myself in the field of coding and modeling.
