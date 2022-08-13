@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kerem Can.
+- 👋 Hi I’m Kerem Can.
 - 👀 I’m interested in web designer.
 - 🌱 I’m currently learning python,html,css,django,blender.. 
 - 💞️ I’m looking to collaborate on artifical intelligence.
