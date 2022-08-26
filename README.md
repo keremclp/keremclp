@@ -2,7 +2,7 @@
 -  I’m interested in web designer.
 -  I’m currently learning python,html,css,django,blender.. 
 -  I’m looking to collaborate on artifical intelligence.
--  How to reach me kerem00962@gmail.com
+-  Here it is my email : kerem00962@gmail.com
 
 - My second home is https://keremclp.github.io/
 
