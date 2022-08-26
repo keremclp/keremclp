@@ -4,4 +4,6 @@
 -  I’m looking to collaborate on artifical intelligence.
 -  How to reach me kerem00962@gmail.com
 
+- My second home is https://keremclp.github.io/
+
 - I'm new to the industry of computer engineering so I'm just developing myself in the field of coding and modeling.
