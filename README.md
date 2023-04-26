@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="450" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/0f80ca43716229.57fa491f3f92e.gif">
+
 <h1 align="center">Hi 👋, I'm Kerem Can CELEPKOLU</h1>
 <h3 align="center">A passionate full-stack developer from Turkey</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -8,17 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/pcmuhendis_" target="blank"><img src="https://img.shields.io/twitter/follow/pcmuhendis_?logo=twitter&style=for-the-badge" alt="pcmuhendis_" /></a> </p>
 
-- 🔭 I’m currently working on [Personal Website](https://keremclp.github.io/)
-
 - 🌱 I’m currently learning **Django,React,JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://keremclp.github.io/](https://keremclp.github.io/)
-
-- 📝 I regularly write articles on [https://keremclp.github.io/BlogWebsite/](https://keremclp.github.io/BlogWebsite/)
-
-- 💬 Ask me about **Blender,Html,CSS**
-
-- 📫 How to reach me **kerem00962@gmail.com**
+- 📫 How to reach me **keremcanclp@gmail.com**
 
 - ⚡ Vision fact **I really big fan of chess which means I will come out of hard stuff easily!**
 
@@ -35,5 +27,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keremclp&show_icons=true&locale=en&layout=compact" alt="keremclp" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keremclp&show_icons=true&locale=en" alt="keremclp" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keremclp&" alt="keremclp" /></p>
