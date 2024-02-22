@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keremclp&label=Profile%20views&color=0e75b6&style=flat" alt="keremclp" /> </p>
 
-<p align="left"> <a href="https://twitter.com/pcmuhendis_" target="blank"><img src="https://img.shields.io/twitter/follow/pcmuhendis_?logo=twitter&style=for-the-badge" alt="pcmuhendis_" /></a> </p>
-
 - 🌱 I’m currently learning **Django, Next.js, TypeScript**
 
 - 📫 How to reach me **keremcanclp@gmail.com**
