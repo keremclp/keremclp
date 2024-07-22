@@ -16,7 +16,7 @@
 - [Building Django Application](https://medium.com/django-unleashed/building-with-django-brick-by-brick-111afac45a09)
 - [How to Use OpenAI APIs with Django](https://medium.com/@keremcancelepkolu/building-with-django-brick-by-brick-d9317aed5f07)
 - [Django Essentials: Mastering Project Components](https://medium.com/@keremcancelepkolu/django-essentials-mastering-project-components-8d98d93c5d38)
-- [Node.js Fundamentals: Node Tutorial]((https://medium.com/@keremcancelepkolu/node-js-fundamentals-node-ee15ff7a3ce5))
+- [Node.js Fundamentals: Node Tutorial](https://medium.com/@keremcancelepkolu/node-js-fundamentals-node-ee15ff7a3ce5)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
