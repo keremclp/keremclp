@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Kerem Can CELEPKOLU</h1>
-<h3 align="center">A passionate full-stack developer from Turkey</h3>
+<h3 align="center">Backend Developer</h3>
 
 
 
